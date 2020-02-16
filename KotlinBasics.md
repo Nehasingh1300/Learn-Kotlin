@@ -70,6 +70,7 @@ when (x) {
 }
 ```
 <br>
+
 **Range**
 Check if something is in range or not
 ```
@@ -84,4 +85,9 @@ else{
 ```
 <br><br>
 
+## Collection
+A collection usually contains a number of objects (this number may also be zero) of the same type. Objects in a collection are called elements or items. For example, all the students in a department form a collection that can be used to calculate their average age. The following collection types are relevant for Kotlin:<br><br>
 
+**List** is an ordered collection with access to elements by indices – integer numbers that reflect their position. Elements can occur more than once in a list. An example of a list is a sentence: it's a group of words, their order is important, and they can repeat.<br>
+**Set** is a collection of unique elements. It reflects the mathematical abstraction of set: a group of objects without repetitions. Generally, the order of set elements has no significance. For example, an alphabet is a set of letters.<br>
+**Map** (or dictionary) is a set of key-value pairs. Keys are unique, and each of them maps to exactly one value. The values can be duplicates. Maps are useful for storing logical connections between objects, for example, an employee's ID and their position.<br>
