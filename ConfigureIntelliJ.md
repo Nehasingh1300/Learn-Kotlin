@@ -1,4 +1,5 @@
 # Configure IntelliJ
+[Configuration](https://www.youtube.com/watch?v=glX5Yx63_Vs&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh&index=4)
 Firstly [download](https://www.jetbrains.com/idea/download/#section=windows) IntelliJ exe file<br>
 Install it by clicking on the Downloaded fiel<br>
 Continue with Basic features Now-a-days it has kotlin, we going to use as already available plugin<br>
